@@ -1,2 +1,5 @@
 # CodeAlpha_python-programming
-simple python projects assigned to complete internship
+---
+## This is a Hang-Man Game built using Python. It helped me to enhanced my programming skills in my core programming and also helped me in developing exicted porjects.
+---
+
